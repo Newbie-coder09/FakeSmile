@@ -559,7 +559,7 @@ screen about():
             if gui.about:
                 text "[gui.about!t]\n"
 
-            text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] with love by {b}Ayush{/b}.\n\nContext: A boy named kenzo was sitting in a restaurant and falls into deep thoughs, of someone, someone he knows from his past, but who? Will he be able to figure it out? Discover!!")
+            text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] with love by {b}Ayush{/b}.\n\nContext: A boy, having two best friends and an ignorant behaviour towards girls decides to meet his friends after a very long time. But do they care? Will he be able to cahnge his mindset? Discover!!")
 
 
 style about_label is gui_label
