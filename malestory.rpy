@@ -372,6 +372,7 @@ label male:
     main "I've to change myself."
     main "I, I will change other too!"
     main ""
+    image quote = im.Scale("images/Outro/quote.png", 1920, 1080)
     scene quote with fade
     pause 5.0
     window hide dissolve
