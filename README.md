@@ -7,13 +7,20 @@ The game's story is written inside malestory.rpy file and is in RenPy language. 
 *Credits:*
 
 Crew:
-Ayu (Main Character): Red Chan 
+Ayu (Main Character): Red Chan
+
 Sahil (Bff1): NSAID
+
 Hritik (Bff2): NSAID
+
 Pallavi: Unknown
+
 Saanvi: Lia
+
 Anshika: CoMix Wave Films
+
 Mother: duokhay
+
 
 Story and Programming:
 DeadSOUL Studios
