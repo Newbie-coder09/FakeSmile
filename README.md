@@ -7,18 +7,18 @@ The game's story is written inside malestory.rpy file and is in RenPy language. 
 ## Screenshots:
 <details>
   <summary>Click Here To View</summary>
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/e8198eb7-d97e-418d-b0e2-1c027bd88308" name="Snapshot_2023-05-17_13-52-17">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/91880cc7-57ac-49d7-9ea0-d6ee6df26fac" name="Snapshot_2023-05-17_13-52-54">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/22603eca-3309-4af3-bbb1-1751301bf221" name="Snapshot_2023-05-17_13-53-07">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/839c7a5c-2ab3-45e4-85b2-b735799db4a5" name="Snapshot_2023-05-17_13-53-30">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/e02d7f72-49cb-4aca-ade2-192df9206b80" name="Snapshot_2023-05-17_13-54-03">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/609e9bd7-c57a-4a20-a9c3-2c6a64699931" name="Snapshot_2023-05-17_13-54-18">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/56b18287-9a63-4789-bb43-ac4fbecbdb8e" name="Snapshot_2023-05-17_13-54-30">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/ead2464d-5a4a-4170-9775-9d595df768f2" name="Snapshot_2023-05-17_13-59-11">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/e6768b80-5600-427b-bbed-c7e183a70506" name="Snapshot_2023-05-17_13-59-21">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/e1bfb7a6-b402-4482-8e0b-a0754a44a6a3" name="Snapshot_2023-05-17_13-59-30">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/f46059d5-adaf-44fb-9ace-c3a43a14caa4" name="Snapshot_2023-05-17_13-59-40">
-  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/efde97d1-c3c7-4ff8-bf00-7f4dfdd61f3a" name="Snapshot_2023-05-17_13-59-47">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/dafa8e07-c9b8-4552-84d8-9735c55ad2e3" name="Snapshot_2023-05-17_13-52-17">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/b7638b66-09a7-4e93-9d49-5ea2e506b144" name="Snapshot_2023-05-17_13-52-54">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/79e3ee9b-95ec-4f3a-ad51-f5c94fe5324f" name="Snapshot_2023-05-17_13-53-07">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/bc94cd33-304c-4b10-8d1d-ba4c6e3d3280" name="Snapshot_2023-05-17_13-53-30">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/97d577d8-f6dd-4bf9-ac29-f3b02960446a" name="Snapshot_2023-05-17_13-54-03">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/9a63e314-9086-4dda-ba8c-5fa49461d3e9" name="Snapshot_2023-05-17_13-54-18">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/973daec3-35e0-4abb-b2fd-164ccd2f6d41" name="Snapshot_2023-05-17_13-54-30">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/4d423648-78d9-4c85-8c29-2ee1946c1cd8" name="Snapshot_2023-05-17_13-59-11">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/b7f1afe8-46a9-4a12-b258-bacdd7f55180" name="Snapshot_2023-05-17_13-59-21">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/b47d8851-cc31-43f9-b870-cc5d35efdec7" name="Snapshot_2023-05-17_13-59-30">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/ab408d48-339a-4e8e-8e79-4af42cf56959" name="Snapshot_2023-05-17_13-59-40">
+  <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/f9c5b148-c34c-41b8-a9f6-58526b590de7" name="Snapshot_2023-05-17_13-59-47">
 </details>
 
 ## Credits:
