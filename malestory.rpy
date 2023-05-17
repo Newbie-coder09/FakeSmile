@@ -370,7 +370,7 @@ label male:
     scene pic100 with fade
     main "A smile that hides all the pain and sufferings."
     main "I've to change myself."
-    main "I, I will change other too!"
+    main "I, I will change others too!"
     main ""
     image quote = im.Scale("images/Outro/quote.png", 1920, 1080)
     scene quote with fade
