@@ -6,9 +6,9 @@ The game's story is written inside malestory.rpy file and is in RenPy language. 
 
 
 
-##Credits:
+## Credits:
 
-###Crew:
+### Crew:
 Ayu (Main Character): Red Chan
 
 Sahil (Bff1): NSAID
@@ -24,11 +24,11 @@ Anshika: CoMix Wave Films
 Mother: duokhay
 
 
-###Story and Programming:
+### Story and Programming:
 
 DeadSOUL Studios
 
-###Music:
+### Music:
 
 TURPAK
 
@@ -48,7 +48,7 @@ Lucas King
 
 Imran Shaikh
 
-###Assets:
+### Assets:
 
 Animations: Zilork, Pulse, MINERFX2, CoMix Wave Films and Canva
 
