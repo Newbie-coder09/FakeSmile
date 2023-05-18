@@ -8,7 +8,7 @@ The game's story is written inside malestory.rpy file and is in RenPy language. 
 
 Gameplay:
 
-[![FakeSmile Walkthrough](https://github.com/Newbie-coder09/FakeSmile/assets/119154806/cffebf16-dcd3-4d52-9c97-228c5727f74a)](https://youtu.be/HK8pU8PMHpc "FakeSmile v0.2 walkthrough | FakeSmile Visual Novel Gameplay | DeadSOUL Studios (  @Silicon-Brain  )")
+[![FakeSmile Walkthrough](http://img.youtube.com/vi/HK8pU8PMHpc/0.jpg)](http://www.youtube.com/watch?v=HK8pU8PMHpc "FakeSmile v0.2 walkthrough | FakeSmile Visual Novel Gameplay | DeadSOUL Studios (  @Silicon-Brain  )")
 
 <details>
   <summary>Screenshots:</summary>
