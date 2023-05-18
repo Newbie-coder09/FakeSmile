@@ -4,7 +4,11 @@ This is a visual novel and is based on a fictional story with fictional characte
 
 The game's story is written inside malestory.rpy file and is in RenPy language. RenPy is a modified version of python and is used to create visual novels like this one. The code is self explanatory and I've uploaded everything that are used in the game, images, music, video, etc.
 
-## Screenshots:
+## Screenshots and Gameplay:
+
+Gameplay:
+[![FakeSmile Walkthrough](https://github.com/Newbie-coder09/FakeSmile/assets/119154806/cffebf16-dcd3-4d52-9c97-228c5727f74a)](https://youtu.be/HK8pU8PMHpc "FakeSmile v0.2 walkthrough | FakeSmile Visual Novel Gameplay | DeadSOUL Studios (  @Silicon-Brain  )")
+
 <details>
   <summary>Click Here To View</summary>
   <img src="https://github.com/Newbie-coder09/FakeSmile/assets/119154806/dafa8e07-c9b8-4552-84d8-9735c55ad2e3" name="Snapshot_2023-05-17_13-52-17">
